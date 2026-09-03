@@ -1,5 +1,5 @@
 ### Gabriel Briones (SrGado)
-**Backend Developer & Líder Técnico** · Node.js / Next.js · AWS & Azure · Cursando Máster en Ciberseguridad (UNIR)
+**Backend Developer & Líder Técnico** · Node.js / Next.js · AWS & Azure ·  Máster en Ciberseguridad (UNIR)
 
 Más de 5 años en TI: desde soporte y administración de servidores hasta liderazgo de producto y desarrollo full-stack. Actualmente en búsqueda de un rol remoto que combine **desarrollo backend** y **seguridad de la información**.
 
