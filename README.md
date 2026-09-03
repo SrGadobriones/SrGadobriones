@@ -1,16 +1,18 @@
-## Hi there 👋
+### Gabriel Briones (SrGado)
+**Backend Developer & Líder Técnico** · Node.js / Next.js · AWS & Azure · Cursando Máster en Ciberseguridad (UNIR)
 
-<!--
-**SrGadobriones/SrGadobriones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Más de 5 años en TI: desde soporte y administración de servidores hasta liderazgo de producto y desarrollo full-stack. Actualmente en búsqueda de un rol remoto que combine **desarrollo backend** y **seguridad de la información**.
 
-Here are some ideas to get you started:
+- 🔭 Última experiencia: diseño e implementación de un sistema **RBAC multi-tenant** (Node.js / Next.js) en Construapp
+- 🎓 Cursando Máster Universitario en Ciberseguridad — UNIR (España): análisis forense digital, EIPD, GDPR, ISO 27001
+- 🧑‍🏫 Lideré y mentoreé equipos de desarrolladores junior
+- 📍 Coronel, Biobío, Chile — abierto a roles remotos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack
+`JavaScript` `TypeScript` `Python` `PHP` · `Node.js` `Express.js` `NestJS` `Laravel` · `React` `Angular` `Next.js` `Tailwind CSS` · `PostgreSQL` `MySQL` · `AWS` `Azure`
+
+#### Certificaciones (UNIR, 2025)
+AWS Cloud Practitioner · Azure AZ-900 · ISO 27001 · Python · Leadership
+
+#### Contacto
+📧 gabriel.brionesa@hotmail.com
